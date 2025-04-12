@@ -1,0 +1,10 @@
+numpy==2.2.4
+opencv_contrib_python==4.11.0.86
+opencv_python==4.11.0.86
+opencv_python_headless==4.11.0.86
+Pillow==11.2.1
+pyttsx3==2.98
+Requests==2.32.3
+torch==2.6.0
+transformers==4.49.0
+ultralytics==8.3.84
